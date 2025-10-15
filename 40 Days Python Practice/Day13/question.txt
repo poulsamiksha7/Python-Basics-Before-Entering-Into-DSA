@@ -1,0 +1,67 @@
+Q1.
+
+Write a program to take a number and print "Positive", "Negative", or "Zero".
+
+Q2.
+
+Input 3 numbers and print the largest without using max().
+
+Q3.
+
+Print the sum of all even numbers from 1 to 100 using a loop.
+
+Q4.
+
+Take a string and count how many vowels are in it.
+
+Q5.
+
+Take a number from user and print its multiplication table (1 to 10).
+
+Q6.
+
+Input a list of 5 numbers from user and print the 2nd largest number without using sort() or max().
+
+Q7.
+
+Reverse a string without using slicing ([::-1] not allowed).
+
+Q8.
+
+Count how many times a character appears in a string (don’t use .count()).
+
+Q9.
+
+Take a list [5,3,8,6,2] and manually sort it using loops (bubble sort logic allowed).
+
+Q10.
+
+Print this pattern:
+
+*
+**
+***
+****
+
+Q11.
+
+Write a function is_prime(n) that returns True if number is prime, else False.
+
+Q12.
+
+Write a function factorial(n) without recursion.
+
+Q13.
+
+Write a function that returns the first non-repeating character in a string.
+Example: "aabbcde" → 'c'
+
+Q14.
+
+Write a program to check if two strings are anagrams.
+Example: "listen" and "silent" → True
+
+Q15.
+
+Input a number and check if it is a perfect number.
+(Perfect number = sum of its divisors equals the number. Example: 6 → ✅)
